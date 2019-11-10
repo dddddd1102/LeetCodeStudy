@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - LengthOfLongestSubstring",
+            "request": "launch",
+            "mainClass": "com.dd.ss.LengthOfLongestSubstring",
+            "projectName": "LeetCode_45d9ad7e"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - AddTwoNumbers",
             "request": "launch",
             "mainClass": "com.dd.ss.AddTwoNumbers",
