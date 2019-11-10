@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - AddTwoNumbers",
+            "request": "launch",
+            "mainClass": "com.dd.ss.AddTwoNumbers",
+            "projectName": "LeetCode_45d9ad7e"
+        }
+    ]
+}
